@@ -1,2 +1,3 @@
 # DevOps-Lab
-Creating Repository
+print("Welcome to DevOps Lab")
+#first code in python
